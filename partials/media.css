@@ -1,0 +1,25 @@
+#ques{
+    min-height: 300px;
+    
+}
+
+#footer{
+    padding: 1%;
+    margin-bottom: 1px;
+}
+#media{
+    text-align: right;
+}
+
+ .qpadding{
+    margin-left: 10%;
+    margin-top: 400px;
+}
+
+.imageIcon{
+    text-align: left;
+    width: 50px;
+}
+.pname{
+    text-align: left;
+}
